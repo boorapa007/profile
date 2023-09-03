@@ -21,7 +21,7 @@ class profile extends StatelessWidget {
                   padding: EdgeInsets.all(10),
                   child: CircleAvatar(
                     backgroundImage: NetworkImage(
-                        'https://scontent.fbkk22-3.fna.fbcdn.net/v/t1.15752-9/361066200_175312372086027_1388418204997922969_n.png?_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeEXTxm3tYYEePn7svr5-Y4mJhrCblbQ6MUmGsJuVtDoxfo5HxmD84om3cgZEk-REg1JXOW4Yj0Gg1oU3Qn8Ke_n&_nc_ohc=RbwGxvNwRj0AX-4C_bo&_nc_ht=scontent.fbkk22-3.fna&oh=03_AdSC4JrvXvusTrVaISncfCEeRirtZQPT5QfL2yiFdFFbVw&oe=64DF2246'),
+                        'https://scontent.fbkk25-1.fna.fbcdn.net/v/t1.6435-9/95657666_2850800421699227_1137645899367841792_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=174925&_nc_eui2=AeFzeVRI0ZAsq3dJuTuCFa39ExvFwp2Eo60TG8XCnYSjrdfvcSj5UHJp1MUpxBPgKjnZcAiO5c00Skpm-BJaUXaa&_nc_ohc=m8lEQLTMKm0AX-QTl2S&_nc_ht=scontent.fbkk25-1.fna&oh=00_AfAbkx9jtob6sdXXft5xlisXln53QpRQFdUUpv4ve2Fk5A&oe=651BA120'),
                     radius: 100,
                   ),
                 ),
